@@ -129,6 +129,7 @@ namespace SexManager
             this.sexView.Location = new System.Drawing.Point(15, 12);
             this.sexView.Name = "sexView";
             this.sexView.Size = new System.Drawing.Size(704, 402);
+            this.sexView.Sorting = System.Windows.Forms.SortOrder.Ascending;
             this.sexView.TabIndex = 12;
             this.sexView.UseCompatibleStateImageBehavior = false;
             this.sexView.View = System.Windows.Forms.View.Details;

@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{43177C1A-E62C-4188-9508-CFBC23CF430E}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <RootNamespace>SexManager</RootNamespace>
     <AssemblyName>SexManager</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
